@@ -3,7 +3,7 @@
 <package format="3">
   <name>more_interfaces</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
+  <description>Custom interfaces with publisher subscriber</description>
   <maintainer email="diane.ngo1321@gmail.com">Diane</maintainer>
   <license>Apache-2.0</license>
 
